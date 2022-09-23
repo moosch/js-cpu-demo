@@ -1,0 +1,8 @@
+{
+  "name": "js-cpu-demo",
+  "version": "1.0.0",
+  "repository": "git@github.com:moosch/js-cpu-demo.git",
+  "author": "Ryan Whitlie <mail@moosch.io>",
+  "license": "GNU GPL V3",
+  "dependencies": {}
+}
